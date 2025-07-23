@@ -54,10 +54,10 @@ Aspiring Game Developer
 ## 🖥️ Example Output
 
 --- Round #1 ---
-1. Attack                        4. Dash [ CD 5 ]
-2. Attack buff [ 15% CD 5 ]      5. Defense buff [ 15% CD 5 ]
-3. Pearcing Attack  [ CD 3 ]     6. Skip round
-7. Heal potion [ +20 HP CD 3]
+1. Attack                         5. Defense buff [ 15% CD 5 ]
+2. Attack buff [ 15% CD 5 ]       6. Skip round
+3. Pearcing Attack  [ CD 3 ]      7. Heal potion [ +20 HP CD 3]
+4. Dash [ CD 5 ]  
 
 [Player chooses 2]
 Player used DMG Buff!
