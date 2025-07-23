@@ -52,7 +52,7 @@ Aspiring Game Developer
 ---
 
 ## 🖥️ Example Output
-
+```
 --- Round #1 ---
 
 Choose Action (1–6)
